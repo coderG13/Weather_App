@@ -10,7 +10,6 @@ This is a responsive weather application that allows users to search for real-ti
 - 🌗 Responsive and modern glassmorphism UI
 - 💨 Uses live data from OpenWeatherMap API
 
+### Demo Video
 
-
-[!Watch the video][https://github.com/user-attachments/assets/65d2e137-24ea-428c-a0c9-363743e85170]
-
+![App Screenshot](https://github.com/user-attachments/assets/93ac70a3-51b9-4d6f-abb5-84796c414685)
