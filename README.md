@@ -12,4 +12,6 @@ This is a responsive weather application that allows users to search for real-ti
 
 ### Demo Video
 
-![App Screenshot](https://github.com/user-attachments/assets/93ac70a3-51b9-4d6f-abb5-84796c414685)
+Download the demo here to check out how the Weather App works:
+
+![App Demo Video](https://github.com/user-attachments/assets/93ac70a3-51b9-4d6f-abb5-84796c414685)
